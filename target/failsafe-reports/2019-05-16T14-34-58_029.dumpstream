@@ -1,0 +1,30 @@
+# Created at 2019-05-16T14:35:00.079
+WARNING: An illegal reflective access operation has occurred
+
+# Created at 2019-05-16T14:35:00.080
+WARNING: Illegal reflective access by com.google.inject.internal.cglib.core.$ReflectUtils$1 (file:/Users/zocgomez/.m2/repository/com/google/inject/guice/4.2.2/guice-4.2.2.jar) to method java.lang.ClassLoader.defineClass(java.lang.String,byte[],int,int,java.security.ProtectionDomain)
+
+# Created at 2019-05-16T14:35:00.080
+WARNING: Please consider reporting this to the maintainers of com.google.inject.internal.cglib.core.$ReflectUtils$1
+
+# Created at 2019-05-16T14:35:00.081
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+
+# Created at 2019-05-16T14:35:00.081
+WARNING: All illegal access operations will be denied in a future release
+
+# Created at 2019-05-16T14:35:00.099
+WARNING: An illegal reflective access operation has occurred
+
+# Created at 2019-05-16T14:35:00.100
+WARNING: Illegal reflective access by com.google.inject.internal.cglib.core.$ReflectUtils$1 (file:/Users/zocgomez/.m2/repository/com/google/inject/guice/4.2.2/guice-4.2.2.jar) to method java.lang.ClassLoader.defineClass(java.lang.String,byte[],int,int,java.security.ProtectionDomain)
+
+# Created at 2019-05-16T14:35:00.100
+WARNING: Please consider reporting this to the maintainers of com.google.inject.internal.cglib.core.$ReflectUtils$1
+
+# Created at 2019-05-16T14:35:00.100
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+
+# Created at 2019-05-16T14:35:00.101
+WARNING: All illegal access operations will be denied in a future release
+
